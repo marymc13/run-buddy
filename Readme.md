@@ -13,7 +13,7 @@ A website that offers fitness training services.
 
 ## Website
 
-https://marymc.github.io/run-buddy/
+https://marymc13.github.io/run-buddy/
 
 
 ## Contribution
